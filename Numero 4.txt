@@ -1,0 +1,10 @@
+A diferença entre fila e pilha é:
+
+Fila: O primeiro elemento inserido é o primeiro a ser retirado.
+Em uma fila de banco por exemplo, quando você é o primeiro a chegar na fila a atendente vai atender você primeiro.
+Os demais quando vão chegando eles vão sendo os ultimos depois de você.
+
+Pilha: Podemos definir que o primeiro elemento de uma pilha é o último a ser retirado.
+Imaginamos por exemplo uma pilha de livros, se eu colocar o libro A primeiro na mesa e depois o livro B quando eu for
+pegar o livro A eu tenho que remover o primeiro elemento que no caso seria o B e depois o A ou seja o A foi o primeiro
+a ser colocado na mesa mas foi o ultimo a ser retirado pois o B estava em cima dele.
